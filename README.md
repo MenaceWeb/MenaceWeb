@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**0x91s/0x91s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const Me = {
+  Personal: {
+    Learning : ["Network", "Pentesting", "Web", "Sysadmin", "Pwn"],
+    Interest : ["Java", "Go", "Cloud", "Forensic"],
+    Project : ["Entropy", "0x307845.me"],
+    FavouriteDistro: "Arch",
+    WM : "Kwin"
+  },
+  Skills: {
+    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "and more ..."],
+    Programming : ["C", "JS", "Perl", "Python", "PHP"],
+    Sysadmin : ["pfsense", "iptables", "private keys", "sudo"],
+    Framework : ["Bootstrap", "NodeJS"]
+  }
+};
+````
