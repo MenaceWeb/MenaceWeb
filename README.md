@@ -10,7 +10,7 @@ const Me = {
     Activity : ["Volley Ball", "Manga", "Vidéo Games"],
     Programming : "Python",
     Dream : ["Japan", "Money"],
-    Currently : ["Student", "Men", "16Yo]
+    Currently : ["Student", "Men", "16Yo" ]
   }
 };
 ````
