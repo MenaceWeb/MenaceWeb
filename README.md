@@ -1,12 +1,12 @@
 ```js
 const Me = {
-  Personal: {
+  Networks : {
     Learning : ["Network", "Japanese", "Python",],
     Social : ["Discord", "Telegram" ],
     Project : "Soon..",
     Os : "Windows",
   },
-  Activity & Dream: {
+  Personal : {
     Activity : ["Volley Ball", "Manga", "Vidéo Games"],
     Programming : "Python",
     Dream : ["Japan", "Money"],
