@@ -17,5 +17,5 @@ const Me = {
 
 <p align="center">
 
-<img src="https://lanyard.cnrad.dev/api/936015730476982313)](https://discord.com/users/936015730476982313"/>
+<img src="https://lanyard-profile-readme.vercel.app/api/936015730476982313"/>
   <!-- 	<br>
