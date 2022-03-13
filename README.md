@@ -15,5 +15,6 @@ const Me = {
 };
 ````
 
+<p align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/936015730476982313)](https://discord.com/users/936015730476982313)
