@@ -10,15 +10,15 @@
 ```js
 const Me = {
   Networks : {
-    Learning : ["Network", "Japanese", "Python",],
+    Learning : ["Network", "JavaScript", "Python",],
     Social : ["Discord", "Telegram" ],
     Project : "Soon..",
     Os : "Windows",
   },
   Personal : {
-    Activity : ["Volley Ball", "Manga", "Vidéo Games"],
+    Activity : ["Devellopement", "Manga", "Vidéo Games"],
     Programming : "Python",
-    Dream : ["Japan", "Money"],
+    Dream : ["Devellopement", "Money"],
     Currently : ["Student", "Men", "16Yo" ]
   }
 };
