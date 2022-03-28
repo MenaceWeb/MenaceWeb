@@ -16,7 +16,7 @@ const Me = {
     Os : "Windows",
   },
   Personal : {
-    Activity : ["Devellopement", "Manga", "Vidéo Games"],
+    Activity : ["Developement", "Manga", "Vidéo Games"],
     Programming : "Python",
     Dream : ["Devellopement", "Money"],
     Currently : ["Student", "Men", "16Yo" ]
