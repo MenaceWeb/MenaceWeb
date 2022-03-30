@@ -17,7 +17,7 @@ const Me = {
   },
   Personal : {
     Activity : ["Developement", "Manga", "Vidéo Games"],
-    Programming : "Python",
+    Programming : "Html",
     Dream : ["Money"],
     Currently : ["Student", "Men", "15Yo" ]
   }
